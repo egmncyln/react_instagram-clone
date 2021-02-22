@@ -1,0 +1,8 @@
+:root {
+  --background-main: rgba(250, 250, 250, 1);
+  --background-white: rgba(255, 255, 255, 1);
+
+  --border-color: rgba(219, 219, 219, 1);
+
+  --fade: 120ms;
+}

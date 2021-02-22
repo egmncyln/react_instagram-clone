@@ -1,13 +1,13 @@
 import React from "react";
 
-import "./App.css";
+// import styles from "./App.css";
 import Login from "./pages/login/Login";
 
 function App() {
   return (
-    <div className="App">
+    <React.Fragment>
       <Login />
-    </div>
+    </React.Fragment>
   );
 }
 

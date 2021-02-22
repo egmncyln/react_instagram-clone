@@ -1,0 +1,11 @@
+.div {
+  border: 1px solid var(--border-color);
+  border-radius: 3px;
+
+  .label {
+    .span {
+    }
+    .input {
+    }
+  }
+}
